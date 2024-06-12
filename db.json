@@ -30,5 +30,16 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+  ], 
+
+  "test_events": [
+
+    {
+      "title":"Fuck You!",
+      "date": "never",
+      "time": "Time is an illusion"
+    }
+
+    
   ]
 }
